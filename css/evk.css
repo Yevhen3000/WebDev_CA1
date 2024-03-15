@@ -1,0 +1,51 @@
+.w800 {
+    max-width: 800px; 
+    margin: auto;
+}
+.evkCarosel{
+    margin-bottom: 10px
+}
+.car_over{
+    background: black;
+    opacity: 0.7;
+    border-radius: 5px;
+    padding: 10px;
+}
+.evkSearch{
+    padding: 0px 5px 0px 5px;
+    margin:auto;
+}
+.validateerror{
+    color: red;
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#filmscreen{
+    padding: 0px 5px 0px 5px;
+    margin:auto;    
+}
+
+.evkFooter {
+    padding: 0px 5px 0px 5px;
+    margin:auto;    
+}
+
+.evkDesript{
+    padding: 10px;
+}
+
+.notfoundst{
+    margin: 50px 0px 50px;
+    text-align: center;
+}
+
+@media (max-width: 800px) {
+    .w800 { width: 100%; }
+}
+
+.f80{
+    width: 90%;
+    margin: 20px 20px 20px 20px;
+}
